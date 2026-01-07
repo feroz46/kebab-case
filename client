@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Smart Queue System</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Smart Queue Management</h1>
+<button onclick="takeToken()">Take Token</button>
+<p id="output"></p>
+
+<script src="script.js"></script>
+</body>
+</html>
